@@ -1,0 +1,21 @@
+body{
+    font-family: 'Krona One', sans-serif;
+}
+section{
+    padding: 20px;
+}
+.upper-sec{
+    width:50%;
+    float: left;
+}
+.upper-sec img{
+    width: 70%;
+}
+.order-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red);
+    border-radius: 7px;
+    padding: 10px 30px;
+    font-weight: 700;
+}
